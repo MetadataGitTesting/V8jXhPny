@@ -1,0 +1,57 @@
+name: edward.zboncak
+description: model
+version: 0.96.469
+author: null
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: edwardzboncak
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2024-11-22 20:15:19'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-11-22 20:15:19'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-11-22T20:15:19.144104Z'
+  name: plibMaven
+  version: 8.6.0-SNAPSHOT
+  id: '1298543076'
+  createdAt: '2024-11-22T20:15:19.144104Z'
+  type: plibMaven
+projectDependencies:
+  '219':
+    projectUID: 219
+    projectName: karine.kunze
+    repositoryPath: gitUri=http://gitserver:3000/dev_58hWigQw_team_253/dev_58hWigQw_project_219.git&subPath=
+    version: karine.kunze/0.2.0.490
+    isDefault: false
+    author: null
+    createdAt: '2024-11-22 20:15:16'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
